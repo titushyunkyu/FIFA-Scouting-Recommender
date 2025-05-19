@@ -2,7 +2,7 @@ FIFA Player Scouting Recommender
 
 ## Overview
 
-**ScoutIQ** is a machine learning-powered tool designed to assist soccer team managers and scouts in identifying undervalued or lesser-known players with similar skillsets to top-tier athletes. By leveraging clustering algorithms and similarity metrics, ScoutIQ finds "hidden gems" in the FIFA 2024 player dataset—young, low-cost players who resemble star players in both physical and technical attributes.
+This program is a machine learning-powered tool designed to assist soccer team managers and scouts in identifying undervalued or lesser-known players with similar skillsets to top-tier athletes. By leveraging clustering algorithms and similarity metrics, ScoutIQ finds "hidden gems" in the FIFA 2024 player dataset—young, low-cost players who resemble star players in both physical and technical attributes.
 
 ## Objectives
 
