@@ -94,12 +94,13 @@ or if using JupyterLab:
 
 ## File Structure
 
+```text
 FIFA-Scouting-Recommender/
 │
 ├── FIFA_Scouting_Recommender.ipynb             # Main notebook with all code
 ├── FIFA Scouting Recommender Project Report.pdf  # Summary report
 └── README.md                                   # This file
-
+```
 
 ## Future Work
 
